@@ -1,0 +1,22 @@
+{
+  "name": "steamgroupmoderatorbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon bot.js --ignore announcement.json",
+    "start": "node bot.js"
+  },
+  "author": "Baterka.xyz",
+  "dependencies": {
+    "@doctormckay/steam-webapi": "^1.1.1",
+    "async": "^2.6.1",
+    "fs-extra": "^7.0.0",
+    "moment": "^2.22.2",
+    "steam-totp": "^2.1.0",
+    "steam-tradeoffer-manager": "^2.9.4",
+    "steam-user": "^3.28.1",
+    "steamcommunity": "^3.37.1",
+    "string-argv": "^0.1.1"
+  }
+}
