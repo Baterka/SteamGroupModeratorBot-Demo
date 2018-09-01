@@ -6,7 +6,7 @@ Steam bot for automatic moderation of Steam Group powered by [DoctorMcKay's](htt
 
 This is **demo** version of original **private bot**.
 
-**I DON'T PROVIDE ANY KIND OF SUPPORT FOR THIS BOT!**
+**I DON'T PROVIDE ANY KIND OF SUPPORT FOR THIS DEMO BOT!**
 
 This repository will most likely never be updated again!
 
