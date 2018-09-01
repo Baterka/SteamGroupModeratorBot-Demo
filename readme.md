@@ -27,9 +27,11 @@ To buy **FULL** version, contact me by any of these links:
 * Steam: [Baterka.xyz 2.0](https://steamcommunity.com/id/czbaterka/)
 * Facebook: [@CZBaterka](https://www.facebook.com/CZBaterka/)
 
-You can support me by Steam Trade Gift, or by PayPal: paypal.me/baterka
+You can support me here:
+* [PayPal](http://paypal.me/baterka)
+* [Steam Tradelink](https://steamcommunity.com/tradeoffer/new/?partner=455600535&token=Lqh3gjI9)
 
-Supporting me can lead to updates of this repository or new free public repositories.
+Supporting *can* lead to updates of this repository or new free public repositories.
 
 ### Powered by
 
