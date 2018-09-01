@@ -4,7 +4,9 @@ Steam bot for automatic moderation of Steam Group powered by [DoctorMcKay's](htt
 
  ## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Important!
 
-This is **demo** version of original **private bot**. This repository will most likely never be updated again!
+This is **demo** version of original **private bot**.
+**I DON'T PROVIDE ANY KIND OF SUPPORT FOR THIS BOT!**
+This repository will most likely never be updated again!
 
 **Demo** version features:
 * Automatic timed group announcement posting.
