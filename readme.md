@@ -1,4 +1,4 @@
-# SteamGameKeysBot
+# SteamGroupModeratorBot-Demo
 
 Steam bot for automatic moderation of Steam Group powered by [DoctorMcKay's](https://github.com/DoctorMcKay) NodeJS tools for Steam.
 
